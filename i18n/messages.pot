@@ -1,0 +1,54 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Extracted only from this provider's private source.
+msgid "Moses"
+msgstr ""
+
+msgid "Homer"
+msgstr ""
+
+msgid "Aristotle"
+msgstr ""
+
+msgid "Archimedes"
+msgstr ""
+
+msgid "Caesar"
+msgstr ""
+
+msgid "Saint Paul"
+msgstr ""
+
+msgid "Charlemagne"
+msgstr ""
+
+msgid "Dante"
+msgstr ""
+
+msgid "Gutenberg"
+msgstr ""
+
+msgid "Shakespeare"
+msgstr ""
+
+msgid "Descartes"
+msgstr ""
+
+msgid "Frederick"
+msgstr ""
+
+msgid "Bichat"
+msgstr ""
+
+msgid "Festival of All the Dead"
+msgstr ""
+
+msgid "Festival of Holy Women"
+msgstr ""
+
+#, c-format
+msgid "%d %s %lld %s"
+msgstr ""
+
+#, c-format
+msgid "%d %s %lld"
+msgstr ""
