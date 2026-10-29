@@ -1,0 +1,83 @@
+{
+  "title": "Positivist Calendar",
+  "intro": "Auguste Comte's proposed calendar reorganised the year around thirteen equal months and names celebrating significant people from world history.",
+  "summary": "Thirteen months of 28 days each, plus festival days. In this model, Gregorian 1789 marks Great Crisis Year 1.",
+  "origin": "The philosopher Auguste Comte developed the Positivist Calendar in the nineteenth century as part of a proposed social and intellectual reform.",
+  "ring_label": "13",
+  "ring_caption": "MONTHS",
+  "diagram_title": "THIRTEEN MONTHS OF FOUR WEEKS",
+  "structure": "Thirteen months each have four seven-day weeks. Special festival days complete the solar year and align with Gregorian leap years.",
+  "diagram_caption": "13 × 28 DAYS + INTERCALARY DAY(S)",
+  "sections": [
+    {
+      "name": "Moses",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Homer",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Aristotle",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Archimedes",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Caesar",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Saint Paul",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Charlemagne",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Dante",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Gutenberg",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Shakespeare",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Descartes",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Frederick",
+      "days": "28",
+      "special": false
+    },
+    {
+      "name": "Bichat",
+      "days": "28",
+      "special": true
+    }
+  ],
+  "pattern_note": "Each regular month is four weeks long. Extra festival days are not normal month days; the proposed structure differs from Gregorian months.",
+  "history": "Comte named months after figures he regarded as important to humanity's intellectual and social development. The scheme was a reform proposal, not a calendar adopted by all governments.",
+  "example": "Gregorian 1789 is labelled Great Crisis Year 1; Gregorian 2026 corresponds to Great Crisis Year 238 under this arithmetic year count.",
+  "limits": "The provider represents Comte's proposed chronology and Gregorian leap alignment. Mathematical projections should not be treated as evidence of general civil adoption.",
+  "source": "https://github.com/Infiltrator-Projects/Calendar-Positivist"
+}
