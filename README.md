@@ -50,4 +50,4 @@ Translations use the provider-owned gettext domain `infiltrator-calendar-positiv
 
 ## Illustrated user guide
 
-The installed provider consists of exactly `Positivist Calendar.so` and `Positivist Calendar.pdf`. Provider translations are embedded in the .so; auditing and PGO/LTO records are kept in source control and Debian control metadata.
+The installed provider consists of exactly `Positivist Calendar.so` and `Calendar-Positivist.pdf`. Provider translations are embedded in the .so; auditing and PGO/LTO records are kept in source control and Debian control metadata.
