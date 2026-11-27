@@ -70,9 +70,9 @@
       "special": true
     }
   ],
-  "model": "The provider uses Gregorian year alignment and leap rules with Great Crisis year numbering equal to Gregorian year minus 1788.",
-  "example": "Gregorian 2026 corresponds to Great Crisis Year 238. Each standard month has four complete weeks.",
+  "example": "Gregorian 2026 corresponds to Great Crisis Year 238.",
   "history": "Comte devised the calendar in the nineteenth century as a social and intellectual reform. Month names reflect figures he regarded as important to humanity's development.",
+  "model": "The provider uses Gregorian year alignment and leap rules with Great Crisis year numbering equal to Gregorian year minus 1788.",
   "limits": "The proposal was not general historical civil practice; retrospective mathematical projections do not establish adoption.",
   "sources": [
     "https://github.com/Infiltrator-Projects/Calendar-Positivist",
