@@ -1,13 +1,8 @@
 {
   "title": "Positivist Calendar",
-  "intro": "Auguste Comte's proposed calendar reorganised the year around thirteen equal months and names celebrating significant people from world history.",
-  "summary": "Thirteen months of 28 days each, plus festival days. In this model, Gregorian 1789 marks Great Crisis Year 1.",
-  "origin": "The philosopher Auguste Comte developed the Positivist Calendar in the nineteenth century as part of a proposed social and intellectual reform.",
-  "ring_label": "13",
-  "ring_caption": "MONTHS",
-  "diagram_title": "THIRTEEN MONTHS OF FOUR WEEKS",
-  "structure": "Thirteen months each have four seven-day weeks. Special festival days complete the solar year and align with Gregorian leap years.",
-  "diagram_caption": "13 × 28 DAYS + INTERCALARY DAY(S)",
+  "intro": "Auguste Comte's proposed Positivist calendar reorganises the year into equal months named for historical figures.",
+  "epoch": "Gregorian 1789 is Great Crisis Year 1.",
+  "structure": "Thirteen months each have 28 days, or four seven-day weeks; additional festival days bring the year to 365 or 366 days. These are separate from regular month days.",
   "sections": [
     {
       "name": "Moses",
@@ -75,9 +70,12 @@
       "special": true
     }
   ],
-  "pattern_note": "Each regular month is four weeks long. Extra festival days are not normal month days; the proposed structure differs from Gregorian months.",
-  "history": "Comte named months after figures he regarded as important to humanity's intellectual and social development. The scheme was a reform proposal, not a calendar adopted by all governments.",
-  "example": "Gregorian 1789 is labelled Great Crisis Year 1; Gregorian 2026 corresponds to Great Crisis Year 238 under this arithmetic year count.",
-  "limits": "The provider represents Comte's proposed chronology and Gregorian leap alignment. Mathematical projections should not be treated as evidence of general civil adoption.",
-  "source": "https://github.com/Infiltrator-Projects/Calendar-Positivist"
+  "model": "The provider uses Gregorian year alignment and leap rules with Great Crisis year numbering equal to Gregorian year minus 1788.",
+  "example": "Gregorian 2026 corresponds to Great Crisis Year 238. Each standard month has four complete weeks.",
+  "history": "Comte devised the calendar in the nineteenth century as a social and intellectual reform. Month names reflect figures he regarded as important to humanity's development.",
+  "limits": "The proposal was not general historical civil practice; retrospective mathematical projections do not establish adoption.",
+  "sources": [
+    "https://github.com/Infiltrator-Projects/Calendar-Positivist",
+    "Model evidence: https://github.com/Infiltrator-Projects/Calendar-Positivist/blob/main/docs/MODEL.md"
+  ]
 }
